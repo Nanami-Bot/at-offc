@@ -9,7 +9,7 @@
 <a href="#"><img title="botwa-termux" src="https://img.shields.io/badge/-BOTWA--TERMUX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/AidilTipi"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FADHIL-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/AidilTipi"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AIDIL TIPI-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/AidilTipi/botwa-termux/followers"><img title="Followers" src="https://img.shields.io/github/followers/FdhlGraphy?style=flat-square"></a>
